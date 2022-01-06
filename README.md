@@ -1,1 +1,3 @@
-# P6_Coffec_Elie_05112021
+- Dans le dossier backend éxecuter la commande suivante :
+- npm install
+- et npm start ou npm run start:linux:darwin sur mac
